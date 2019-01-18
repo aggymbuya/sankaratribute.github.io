@@ -105,6 +105,7 @@ figcaption {
     
     max-width: 480px;
     max-height: 400px; 
+    display: block;
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
